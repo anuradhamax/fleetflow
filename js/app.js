@@ -85,6 +85,7 @@ const App = {
                         </button>
                     </div>
 
+                    <!--
                     <div class="text-center text-xs text-gray-400 mt-4">
                         <p>${I18n.t('demo_credentials')}</p>
                         <p>admin@fleetflow.com / password</p>
@@ -92,6 +93,7 @@ const App = {
                             ${I18n.t('reset_demo')}
                         </button>
                     </div>
+                    -->
                 </form>
             </div>
         `;
