@@ -70,7 +70,7 @@ const App = {
                             type="password" 
                             id="password" 
                             name="password" 
-                            value="password" 
+                            value="123" 
                             class="w-full px-4 py-3 rounded-lg border border-gray-200 focus:border-primary focus:ring-2 focus:ring-blue-100 outline-none transition-all"
                             required
                         >
